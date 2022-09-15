@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="MetaTrader5.copy_ticks_from" />
+          <option value="MetaTrader5.symbol_info" />
+          <option value="MetaTrader5.positions_get" />
+          <option value="MetaTrader5.symbol_info_tick" />
+          <option value="MetaTrader5.order_send" />
+          <option value="MetaTrader5.initialize" />
+          <option value="MetaTrader5.last_error" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
